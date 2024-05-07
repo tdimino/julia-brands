@@ -39,7 +39,7 @@ const brainstorms: MentalProcess = async ({ workingMemory: memory}) => {
     while (lameCheck) {
         [memory, brainstormed] = await brainstorm(
             memory,
-            `What are some potential names for this beverage that would impress Gen Z and Millennial buyers and aren't reminiscient of ${rejected.current}?`,
+            `What are some potential names for this beverage that would impress Gen Z and Millennial buyers and aren't reminiscient of these: ${rejected.current}?`,
             { model: LLM }
         );
 

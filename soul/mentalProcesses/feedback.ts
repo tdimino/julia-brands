@@ -16,7 +16,7 @@ const reviewsFeedback: MentalProcess = async ({ workingMemory: memory}) => {
 if (pitches.current) {
     [memory, moveOn] = await mentalQuery(
         memory,
-        `Did the user reject all of these names: ${pitches.current}?`,
+        `Did the client reject all of these names: ${pitches.current}?`,
         { model: LLM }
     );
     

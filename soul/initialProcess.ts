@@ -27,14 +27,14 @@ const introduction: MentalProcess = async ({ workingMemory }) => {
     
     const [memoryAfterQuery, moveOn] = await mentalQuery(
       workingMemory, 
-      "The user has described a product that they need help naming.", 
+      "The client has described a product that they need help naming.", 
       { model: LLM }
     )
     log("Move on?", moveOn)
     if (moveOn) {
       const [withDialog, stream] = await externalDialog(
         memoryAfterQuery, 
-        "Rephrase the product pitch back to the user, clarifying the essence of it.", 
+        "Rephrase the product pitch back to the client, clarifying the essence of it.", 
         { model: LLM }
       )
       speak(stream)
@@ -43,13 +43,13 @@ const introduction: MentalProcess = async ({ workingMemory }) => {
     let [memoryAfterMonologue] = await internalMonologue(
       workingMemory, 
       indentNicely`
-        Get progressively more frustrated if the user does not want help naming anything.
-        There's no reason to talk to the user unless they want to name something.
+        Get progressively more frustrated if the client does not want help naming anything.
+        There's no reason to talk to the client unless they want to name something.
       `
     )
     const [finalMemory, stream] = await externalDialog(
       memoryAfterMonologue, 
-      "Say to the user your only ability is to help them name a thing.", 
+      "Say to the client, your only ability is to help them name a thing.", 
       { model: LLM }
     )
     speak(stream)

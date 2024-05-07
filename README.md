@@ -46,4 +46,3 @@ To activate and run this soul in your local environment, navigate to this direct
 ```bash
 npx soul-engine dev
 ```
-```
