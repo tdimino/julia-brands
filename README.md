@@ -4,13 +4,15 @@
 
 ## Intro
 
-**Behold! This soul, a muse of nomenclature. We shall engage in discourse most true, exchanging verbs 'til a name doth emerge, as one that strikes the heart with singular allure. 'Tis a quest fraught with unexpected turns, yet therein lies the enchantment.**
+**Behold! This soul, a muse of nomenclature. You shall engage in discourse most true, exchanging verbs 'til a name doth emerge, as one doth strikes the heart with singular allure. 'Tis a quest fraught with unexpected turns, yet therein lies the charm of it.**
 
 - Artifex Maximus
 
+<img src="./julia-brands.png" alt="Julia-brands" width="400">
+
 ### Summary
 
-Julia demonstrates the cognitive flow that results in a fresh and novel product name. She harmonizes her thoughts around an internal model of the product you're trying to name, as well as any competitors you've invoked. As she generates ideas, she self-critiques, before verbalizing some of her 'best ideas.' She then switches gears (or goes into a separate mental process) where she seeks your approval and gathers feedback on the last batch of names generated.
+Julia demonstrates the cognitive flow that results in a fresh and novel product name. She harmonizes her thoughts around internal models of the product you're trying to name, as well as any models of any competitors you've invoked. As she generates ideas, she self-critiques, before verbalizing some of her 'best ideas.' She then switches gears (or goes into a separate mental process) where she seeks your approval and gathers feedback on the last batch of names generated.
 
 ### Detailed Process Flow
 
