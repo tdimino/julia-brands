@@ -2,11 +2,15 @@
 
 **Soul Designer:** [@tdimino](https://github.com/tdimino)
 
-This soul is designed to assist in the creative process of naming products by engaging in a dynamic conversation that evolves through several stages:
+## Intro
 
-### Overview
+**Behold! This soul, a muse of nomenclature. We shall engage in discourse most true, exchanging verbs 'til a name doth emerge, as one that strikes the heart with singular allure. 'Tis a quest fraught with unexpected turns, yet therein lies the enchantment.**
 
-The `julia-brands` soul operates through a series of interconnected processes that simulate a deep and thoughtful conversation aimed at generating product names. This involves initial user interaction, iterative brainstorming, and feedback loops to refine suggestions.
+- Artifex Maximus
+
+### Summary
+
+Julia demonstrates the cognitive flow that results in a fresh and novel product name. She harmonizes her thoughts around an internal model of the product you're trying to name, as well as any competitors you've invoked. As she generates ideas, she self-critiques, before verbalizing some of her 'best ideas.' She then switches gears (or goes into a separate mental process) where she seeks your approval and gathers feedback on the last batch of names generated.
 
 ### Detailed Process Flow
 
@@ -46,3 +50,9 @@ To activate and run this soul in your local environment, navigate to this direct
 ```bash
 npx soul-engine dev
 ```
+
+## 🔑 Getting Soul Engine access
+1. Join the [OPEN SOULS Discord](http://discord.gg/opensouls)
+1. That's it! Now you can login to the Soul Engine with Discord auth when running `npx soul-engine dev`
+
+Make sure to checkout the [Soul Engine guide](https://docs.souls.chat)!
