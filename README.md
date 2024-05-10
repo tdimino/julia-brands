@@ -4,7 +4,7 @@
 
 ## Intro
 
-**Behold! This soul, a muse of nomenclature. You shall engage in discourse most true, exchanging verbs 'til a name doth emerge, as one doth strikes the heart with singular allure. 'Tis a quest fraught with unexpected turns, yet therein lies the charm of it.**
+**Behold! This Platonic soul, a muse of nomenclature. You shall engage in discourse most true, exchanging verbs 'til a name doth emerge, as one doth strikes the heart with singular allure. 'Tis a quest fraught with unexpected turns, yet therein lies the charm of it.**
 
 - Artifex Maximus
 
