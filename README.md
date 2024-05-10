@@ -12,7 +12,7 @@
 
 ### Summary
 
-julia-brands demonstrates the cognitive flow that results in a fresh and novel product name. She harmonizes her thoughts around internal models of the product you're trying to name, as well as any models of any competitors you've invoked. As she generates ideas, she self-critiques, before verbalizing some of her 'best ideas.' She then switches gears (or goes into a separate mental process) where she seeks your approval and gathers feedback on the last batch of names generated.
+`julia-brands` demonstrates the cognitive flow that results in a fresh and novel product name. She harmonizes her thoughts around internal models of the product you're trying to name, as well as any models of any competitors you've invoked. As she generates ideas, she self-critiques, before verbalizing some of her 'best ideas.' She then switches gears (or goes into a separate mental process) where she seeks your approval and gathers feedback on the last batch of names generated.
 
 ### Detailed Process Flow
 
